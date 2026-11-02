@@ -1,0 +1,1 @@
+MP2 is creating a more accessible data cleaning pipeline with the use of being able to upload data and process it outside of the terminal.It has middleware to help manage requests, deliver log resposnes, and error crashes safely. It also uses endpoints such as post and get to 
